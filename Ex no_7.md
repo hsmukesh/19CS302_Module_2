@@ -27,7 +27,7 @@ int main() {
 ```
 
 ## Output:
-https://github.com/user-attachments/assets/6cb7e445-571e-4865-b146-b05ef5c5ec8b
+![image](https://github.com/user-attachments/assets/6cb7e445-571e-4865-b146-b05ef5c5ec8b)
 
 
 
